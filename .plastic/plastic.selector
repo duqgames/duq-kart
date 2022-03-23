@@ -1,0 +1,4 @@
+repository "duq_duq_kart@duq_games@cloud"
+  path "/"
+    br "/main"
+    co "/main"
